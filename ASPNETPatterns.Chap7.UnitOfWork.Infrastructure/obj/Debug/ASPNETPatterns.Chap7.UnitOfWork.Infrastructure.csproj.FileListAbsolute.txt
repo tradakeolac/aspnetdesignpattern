@@ -1,0 +1,5 @@
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.UnitOfWork.Infrastructure\bin\Debug\ASPNETPatterns.Chap7.UnitOfWork.Infrastructure.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.UnitOfWork.Infrastructure\bin\Debug\ASPNETPatterns.Chap7.UnitOfWork.Infrastructure.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.UnitOfWork.Infrastructure\obj\Debug\ASPNETPatterns.Chap7.UnitOfWork.Infrastructure.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.UnitOfWork.Infrastructure\obj\Debug\ASPNETPatterns.Chap7.UnitOfWork.Infrastructure.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.UnitOfWork.Infrastructure\obj\Debug\ASPNETPatterns.Chap7.UnitOfWork.Infrastructure.csprojResolveAssemblyReference.cache

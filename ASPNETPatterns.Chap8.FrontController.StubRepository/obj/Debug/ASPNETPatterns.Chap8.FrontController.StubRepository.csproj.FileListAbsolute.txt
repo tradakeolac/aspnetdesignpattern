@@ -1,0 +1,7 @@
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap8.FrontController.StubRepository\bin\Debug\ASPNETPatterns.Chap8.FrontController.StubRepository.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap8.FrontController.StubRepository\bin\Debug\ASPNETPatterns.Chap8.FrontController.StubRepository.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap8.FrontController.StubRepository\bin\Debug\ASPNETPatterns.Chap8.FrontController.Model.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap8.FrontController.StubRepository\bin\Debug\ASPNETPatterns.Chap8.FrontController.Model.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap8.FrontController.StubRepository\obj\Debug\ASPNETPatterns.Chap8.FrontController.StubRepository.csprojResolveAssemblyReference.cache
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap8.FrontController.StubRepository\obj\Debug\ASPNETPatterns.Chap8.FrontController.StubRepository.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap8.FrontController.StubRepository\obj\Debug\ASPNETPatterns.Chap8.FrontController.StubRepository.pdb

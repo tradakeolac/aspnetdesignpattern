@@ -1,0 +1,4 @@
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap4.DomainModel.Model\bin\Debug\ASPPatterns.Chap4.DomainModel.Model.dll
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap4.DomainModel.Model\bin\Debug\ASPPatterns.Chap4.DomainModel.Model.pdb
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap4.DomainModel.Model\obj\Debug\ASPPatterns.Chap4.DomainModel.Model.dll
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap4.DomainModel.Model\obj\Debug\ASPPatterns.Chap4.DomainModel.Model.pdb

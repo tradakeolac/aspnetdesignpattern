@@ -1,0 +1,11 @@
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.Library.Repository.NHibernate\bin\Debug\ASPNETPatterns.Chap7.Library.Repository.NHibernate.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.Library.Repository.NHibernate\bin\Debug\ASPNETPatterns.Chap7.Library.Repository.NHibernate.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.Library.Repository.NHibernate\bin\Debug\ASPNETPatterns.Chap7.Library.Infrastructure.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.Library.Repository.NHibernate\bin\Debug\ASPNETPatterns.Chap7.Library.Model.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.Library.Repository.NHibernate\bin\Debug\ASPNETPatterns.Chap7.UnitOfWork.Infrastructure.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.Library.Repository.NHibernate\bin\Debug\ASPNETPatterns.Chap7.Library.Infrastructure.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.Library.Repository.NHibernate\bin\Debug\ASPNETPatterns.Chap7.Library.Model.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.Library.Repository.NHibernate\bin\Debug\ASPNETPatterns.Chap7.UnitOfWork.Infrastructure.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.Library.Repository.NHibernate\obj\Debug\ASPNETPatterns.Chap7.Library.Repository.NHibernate.csprojResolveAssemblyReference.cache
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.Library.Repository.NHibernate\obj\Debug\ASPNETPatterns.Chap7.Library.Repository.NHibernate.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.Library.Repository.NHibernate\obj\Debug\ASPNETPatterns.Chap7.Library.Repository.NHibernate.pdb

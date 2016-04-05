@@ -1,0 +1,13 @@
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Services\obj\Debug\Agathas.Storefront.Services.csprojResolveAssemblyReference.cache
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Services\bin\Debug\Agathas.Storefront.Services.dll
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Services\bin\Debug\Agathas.Storefront.Services.pdb
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Services\bin\Debug\Agathas.Storefront.Core.dll
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Services\bin\Debug\Agathas.Storefront.Model.dll
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Services\bin\Debug\log4net.dll
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Services\bin\Debug\Agathas.Storefront.Core.pdb
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Services\bin\Debug\Agathas.Storefront.Model.pdb
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Services\bin\Debug\log4net.xml
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Services\obj\Debug\Agathas.Storefront.Services.dll
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Services\obj\Debug\Agathas.Storefront.Services.pdb
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Services\bin\Debug\AutoMapper.dll
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Services\bin\Debug\AutoMapper.xml

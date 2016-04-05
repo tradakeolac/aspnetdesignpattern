@@ -1,0 +1,4 @@
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap4.HRHolidayBook.Service\bin\Debug\ASPPatterns.Chap4.HRHolidayBook.Service.dll
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap4.HRHolidayBook.Service\bin\Debug\ASPPatterns.Chap4.HRHolidayBook.Service.pdb
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap4.HRHolidayBook.Service\obj\Debug\ASPPatterns.Chap4.HRHolidayBook.Service.dll
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap4.HRHolidayBook.Service\obj\Debug\ASPPatterns.Chap4.HRHolidayBook.Service.pdb

@@ -1,0 +1,16 @@
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.EF\obj\Debug\Agathas.Storefront.Repository.EF.csprojResolveAssemblyReference.cache
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.EF\bin\Debug\Agathas.Storefront.Repository.EF.dll.config
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.EF\bin\Debug\Agathas.Storefront.Repository.EF.dll
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.EF\bin\Debug\Agathas.Storefront.Repository.EF.pdb
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.EF\bin\Debug\Agathas.Storefront.Core.dll
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.EF\bin\Debug\Agathas.Storefront.Model.dll
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.EF\bin\Debug\EntityFramework.dll
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.EF\bin\Debug\log4net.dll
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.EF\bin\Debug\Agathas.Storefront.Core.pdb
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.EF\bin\Debug\Agathas.Storefront.Model.pdb
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.EF\bin\Debug\EntityFramework.xml
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.EF\bin\Debug\log4net.xml
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.EF\obj\Debug\Agathas.Storefront.Repository.EF.dll
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.EF\obj\Debug\Agathas.Storefront.Repository.EF.pdb

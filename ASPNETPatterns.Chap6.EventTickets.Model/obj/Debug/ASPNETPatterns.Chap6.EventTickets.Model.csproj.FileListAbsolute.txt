@@ -1,0 +1,4 @@
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets.Model\bin\Debug\ASPNETPatterns.Chap6.EventTickets.Model.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets.Model\bin\Debug\ASPNETPatterns.Chap6.EventTickets.Model.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets.Model\obj\Debug\ASPNETPatterns.Chap6.EventTickets.Model.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets.Model\obj\Debug\ASPNETPatterns.Chap6.EventTickets.Model.pdb

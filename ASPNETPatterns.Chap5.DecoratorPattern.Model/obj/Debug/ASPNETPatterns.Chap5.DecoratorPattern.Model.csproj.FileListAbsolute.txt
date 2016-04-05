@@ -1,0 +1,4 @@
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap5.DecoratorPattern.Model\bin\Debug\ASPNETPatterns.Chap5.DecoratorPattern.Model.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap5.DecoratorPattern.Model\bin\Debug\ASPNETPatterns.Chap5.DecoratorPattern.Model.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap5.DecoratorPattern.Model\obj\Debug\ASPNETPatterns.Chap5.DecoratorPattern.Model.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap5.DecoratorPattern.Model\obj\Debug\ASPNETPatterns.Chap5.DecoratorPattern.Model.pdb

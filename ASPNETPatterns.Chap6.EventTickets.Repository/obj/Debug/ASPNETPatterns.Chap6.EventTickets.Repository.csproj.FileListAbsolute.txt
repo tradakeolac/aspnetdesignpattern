@@ -1,0 +1,7 @@
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets.Repository\bin\Debug\ASPNETPatterns.Chap6.EventTickets.Repository.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets.Repository\bin\Debug\ASPNETPatterns.Chap6.EventTickets.Repository.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets.Repository\bin\Debug\ASPNETPatterns.Chap6.EventTickets.Model.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets.Repository\bin\Debug\ASPNETPatterns.Chap6.EventTickets.Model.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets.Repository\obj\Debug\ASPNETPatterns.Chap6.EventTickets.Repository.csprojResolveAssemblyReference.cache
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets.Repository\obj\Debug\ASPNETPatterns.Chap6.EventTickets.Repository.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets.Repository\obj\Debug\ASPNETPatterns.Chap6.EventTickets.Repository.pdb

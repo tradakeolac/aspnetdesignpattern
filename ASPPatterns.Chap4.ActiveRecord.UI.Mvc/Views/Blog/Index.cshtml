@@ -1,0 +1,18 @@
+﻿@using ASPPatterns.Chap4.ActiveRecord.Model
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div id="content">
+    <h2>@Html.Encode(((Post)ViewData["LastestPost"]).Subject)</h2>
+    @(((Post)ViewData["LastestPost"]).Text.Replace("\n", "<br/>"))
+    <br />
+    <i>Posted on</i>
+
+    @foreach (var item in ((Post)ViewData["LastesPost"]).Comments)
+    {
+        <p><i>@item.Author said on @item.DateAdded.ToLongDateString()</i></p>
+    }
+</div>
+

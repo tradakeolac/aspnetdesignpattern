@@ -1,0 +1,8 @@
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap3.Layered.Repository\bin\Debug\ASPPatterns.Chap3.Layered.Repository.dll
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap3.Layered.Repository\bin\Debug\ASPPatterns.Chap3.Layered.Repository.pdb
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap3.Layered.Repository\bin\Debug\ASPPatterns.Chap3.Layered.Model.dll
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap3.Layered.Repository\bin\Debug\ASPPatterns.Chap3.Layered.Model.pdb
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap3.Layered.Repository\obj\Debug\ASPPatterns.Chap3.Layered.Repository.csprojResolveAssemblyReference.cache
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap3.Layered.Repository\obj\Debug\ASPPatterns.Chap3.Layered.Repository.dll
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap3.Layered.Repository\obj\Debug\ASPPatterns.Chap3.Layered.Repository.pdb
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap3.Layered.Repository\bin\Debug\ASPPatterns.Chap3.Layered.Repository.dll.config

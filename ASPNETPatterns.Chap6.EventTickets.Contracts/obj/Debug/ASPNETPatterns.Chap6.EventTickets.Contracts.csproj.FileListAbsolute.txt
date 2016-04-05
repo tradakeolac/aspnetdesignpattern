@@ -1,0 +1,7 @@
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets.Contracts\bin\Debug\ASPNETPatterns.Chap6.EventTickets.Contracts.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets.Contracts\bin\Debug\ASPNETPatterns.Chap6.EventTickets.Contracts.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets.Contracts\obj\Debug\ASPNETPatterns.Chap6.EventTickets.Contracts.csprojResolveAssemblyReference.cache
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets.Contracts\obj\Debug\ASPNETPatterns.Chap6.EventTickets.Contracts.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets.Contracts\obj\Debug\ASPNETPatterns.Chap6.EventTickets.Contracts.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets.Contracts\bin\Debug\ASPNETPatterns.Chap6.EventTickets.DataContract.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets.Contracts\bin\Debug\ASPNETPatterns.Chap6.EventTickets.DataContract.pdb

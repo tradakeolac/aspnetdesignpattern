@@ -1,0 +1,4 @@
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap5.DependencyInjection.Model\bin\Debug\ASPNETPatterns.Chap5.DependencyInjection.Model.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap5.DependencyInjection.Model\bin\Debug\ASPNETPatterns.Chap5.DependencyInjection.Model.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap5.DependencyInjection.Model\obj\Debug\ASPNETPatterns.Chap5.DependencyInjection.Model.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap5.DependencyInjection.Model\obj\Debug\ASPNETPatterns.Chap5.DependencyInjection.Model.pdb
