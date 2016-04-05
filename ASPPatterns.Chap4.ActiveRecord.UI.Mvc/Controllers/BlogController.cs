@@ -24,8 +24,6 @@ namespace ASPPatterns.Chap4.ActiveRecord.UI.Mvc.Controllers
             {
                 return Create();
             }
-
-            return View();
         }
 
         [AcceptVerbs(HttpVerbs.Post)]

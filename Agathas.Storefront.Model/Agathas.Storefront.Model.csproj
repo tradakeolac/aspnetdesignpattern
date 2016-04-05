@@ -47,7 +47,7 @@
     <Compile Include="Products\IProductTitleRepository.cs" />
     <Compile Include="Products\Product.cs" />
     <Compile Include="Products\ProductColor.cs" />
-    <Compile Include="Products\ProductRepository.cs" />
+    <Compile Include="Products\IProductRepository.cs" />
     <Compile Include="Products\ProductSize.cs" />
     <Compile Include="Products\ProductTitle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

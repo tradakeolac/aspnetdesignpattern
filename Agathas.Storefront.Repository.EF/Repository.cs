@@ -39,7 +39,7 @@ namespace Agathas.Storefront.Repository.EF
             // - cast DbContext to IObjectContextAdapter then get ObjectContext from it 
             // - call CreateQuery<TEntity>(entityName) method on the ObjectContext 
             // - perform querying on the returning IQueryable, and it works! 
-            var entityName = GetEntityName<TEntity>();
+            var entityName = GetEntityName();
             return ((IObjectContextAdapter)DbContext).ObjectContext.CreateQuery<TEntity>(entityName);
         }
         
@@ -83,7 +83,7 @@ namespace Agathas.Storefront.Repository.EF
 
         public void Update(TEntity entity)
         {
-            var fqen = GetEntityName<TEntity>();
+            var fqen = GetEntityName();
 
             object originalItem;
             var key = DbContext.ObjectContext.CreateEntityKey(fqen, entity);
@@ -127,14 +127,14 @@ namespace Agathas.Storefront.Repository.EF
         
         private EntityKey GetEntityKey(object keyValue)
         {
-            var entityDbSetName = GetEntityName<TEntity>();
+            var entityDbSetName = GetEntityName();
             var objectDbSet = DbContext.ObjectContext.CreateObjectSet<TEntity>();
             var keyPropertyName = objectDbSet.EntitySet.ElementType.KeyMembers[0].ToString();
             var entityKey = new EntityKey(entityDbSetName, new[] { new EntityKeyMember(keyPropertyName, keyValue) });
             return entityKey;
         }
 
-        private string GetEntityName<TEntity>()
+        private string GetEntityName()
         {
             return string.Format("{0}.{1}", ((IObjectContextAdapter)DbContext).ObjectContext.DefaultContainerName, _pluralizer.Pluralize(typeof(TEntity).Name));
         }

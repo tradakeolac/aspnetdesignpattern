@@ -1,5 +1,6 @@
 ﻿using Agathas.Storefront.Model.Products;
 using Agathas.Storefront.Services.ViewModels;
+using AutoMapper;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,8 +21,7 @@ namespace Agathas.Storefront.Services.Mapping
                 GroupId = (int)refinementGroupType
             };
             refinementGroup.Refinements =
-            Mapper.Map<IEnumerable<IProductAttribute>,
-            IEnumerable<Refinement>>(productAttributes);
+            Mapper.Map<IEnumerable<IProductAttribute>, IEnumerable<Refinement>>(productAttributes);
             return refinementGroup;
         }
     }

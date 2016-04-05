@@ -45,7 +45,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AutoMapperBootStrapper.cs" />
+    <Compile Include="Implementations\ProductCatalogService.cs" />
+    <Compile Include="Implementations\ProductSearchRequestQueryGenerator.cs" />
     <Compile Include="Interfaces\IProductCatalogService.cs" />
+    <Compile Include="Mapping\CategoryMapper.cs" />
+    <Compile Include="Mapping\IProductAttributeMapper.cs" />
+    <Compile Include="Mapping\ProductMapper.cs" />
     <Compile Include="Mapping\ProductTitleMapper.cs" />
     <Compile Include="Messaging\ProductCatalogService\GetAllCategoriesResponse.cs" />
     <Compile Include="Messaging\ProductCatalogService\GetFeaturedProductsResponse.cs" />
@@ -61,6 +66,7 @@
     <Compile Include="ViewModels\ProductView.cs" />
     <Compile Include="ViewModels\Refinement.cs" />
     <Compile Include="ViewModels\RefinementGroup.cs" />
+    <Compile Include="ViewModels\RefinementGroupings.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Agathas.Storefront.Infrastructure\Agathas.Storefront.Core.csproj">

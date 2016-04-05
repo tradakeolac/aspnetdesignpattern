@@ -14,10 +14,5 @@ namespace Agathas.Storefront.Repository.NHibernate.Repositories
         public CategoryRepository(IUnitOfWork unitOfWork) : base(unitOfWork)
         {
         }
-
-        public IEnumerable<Category> FindBy(Query query, int index, int count)
-        {
-            throw new NotImplementedException();
-        }
     }
 }
