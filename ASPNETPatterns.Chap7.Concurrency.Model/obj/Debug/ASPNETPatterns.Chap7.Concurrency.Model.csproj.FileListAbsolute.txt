@@ -1,0 +1,4 @@
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.Concurrency.Model\bin\Debug\ASPNETPatterns.Chap7.Concurrency.Model.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.Concurrency.Model\bin\Debug\ASPNETPatterns.Chap7.Concurrency.Model.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.Concurrency.Model\obj\Debug\ASPNETPatterns.Chap7.Concurrency.Model.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.Concurrency.Model\obj\Debug\ASPNETPatterns.Chap7.Concurrency.Model.pdb

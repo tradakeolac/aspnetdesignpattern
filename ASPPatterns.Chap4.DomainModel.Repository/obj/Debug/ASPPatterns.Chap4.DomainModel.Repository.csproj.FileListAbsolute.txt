@@ -1,0 +1,7 @@
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap4.DomainModel.Repository\bin\Debug\ASPPatterns.Chap4.DomainModel.Repository.dll
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap4.DomainModel.Repository\bin\Debug\ASPPatterns.Chap4.DomainModel.Repository.pdb
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap4.DomainModel.Repository\bin\Debug\ASPPatterns.Chap4.DomainModel.Model.dll
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap4.DomainModel.Repository\bin\Debug\ASPPatterns.Chap4.DomainModel.Model.pdb
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap4.DomainModel.Repository\obj\Debug\ASPPatterns.Chap4.DomainModel.Repository.csprojResolveAssemblyReference.cache
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap4.DomainModel.Repository\obj\Debug\ASPPatterns.Chap4.DomainModel.Repository.dll
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap4.DomainModel.Repository\obj\Debug\ASPPatterns.Chap4.DomainModel.Repository.pdb

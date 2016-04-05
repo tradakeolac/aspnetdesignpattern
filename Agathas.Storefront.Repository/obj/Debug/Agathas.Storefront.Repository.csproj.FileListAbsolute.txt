@@ -1,0 +1,4 @@
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository\bin\Debug\Agathas.Storefront.Repository.dll
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository\bin\Debug\Agathas.Storefront.Repository.pdb
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository\obj\Debug\Agathas.Storefront.Repository.dll
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository\obj\Debug\Agathas.Storefront.Repository.pdb

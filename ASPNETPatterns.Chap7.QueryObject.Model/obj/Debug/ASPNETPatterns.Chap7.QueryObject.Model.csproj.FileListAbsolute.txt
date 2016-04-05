@@ -1,0 +1,7 @@
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.QueryObject.Model\bin\Debug\ASPNETPatterns.Chap7.QueryObject.Model.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.QueryObject.Model\bin\Debug\ASPNETPatterns.Chap7.QueryObject.Model.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.QueryObject.Model\obj\Debug\ASPNETPatterns.Chap7.QueryObject.Model.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.QueryObject.Model\obj\Debug\ASPNETPatterns.Chap7.QueryObject.Model.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.QueryObject.Model\bin\Debug\ASPNETPatterns.Chap7.QueryObject.Infrastructure.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.QueryObject.Model\bin\Debug\ASPNETPatterns.Chap7.QueryObject.Infrastructure.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.QueryObject.Model\obj\Debug\ASPNETPatterns.Chap7.QueryObject.Model.csprojResolveAssemblyReference.cache

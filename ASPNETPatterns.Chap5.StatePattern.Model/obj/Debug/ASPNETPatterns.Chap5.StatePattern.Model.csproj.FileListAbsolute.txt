@@ -1,0 +1,4 @@
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap5.StatePattern.Model\bin\Debug\ASPNETPatterns.Chap5.StatePattern.Model.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap5.StatePattern.Model\bin\Debug\ASPNETPatterns.Chap5.StatePattern.Model.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap5.StatePattern.Model\obj\Debug\ASPNETPatterns.Chap5.StatePattern.Model.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap5.StatePattern.Model\obj\Debug\ASPNETPatterns.Chap5.StatePattern.Model.pdb

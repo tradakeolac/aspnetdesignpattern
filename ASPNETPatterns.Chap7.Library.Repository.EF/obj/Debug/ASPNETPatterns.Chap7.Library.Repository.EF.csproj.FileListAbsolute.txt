@@ -1,0 +1,11 @@
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.Library.Repository.EF\bin\Debug\ASPNETPatterns.Chap7.Library.Repository.EF.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.Library.Repository.EF\bin\Debug\ASPNETPatterns.Chap7.Library.Repository.EF.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.Library.Repository.EF\bin\Debug\ASPNETPatterns.Chap7.Library.Infrastructure.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.Library.Repository.EF\bin\Debug\ASPNETPatterns.Chap7.Library.Model.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.Library.Repository.EF\bin\Debug\ASPNETPatterns.Chap7.UnitOfWork.Infrastructure.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.Library.Repository.EF\bin\Debug\ASPNETPatterns.Chap7.Library.Infrastructure.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.Library.Repository.EF\bin\Debug\ASPNETPatterns.Chap7.Library.Model.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.Library.Repository.EF\bin\Debug\ASPNETPatterns.Chap7.UnitOfWork.Infrastructure.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.Library.Repository.EF\obj\Debug\ASPNETPatterns.Chap7.Library.Repository.EF.csprojResolveAssemblyReference.cache
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.Library.Repository.EF\obj\Debug\ASPNETPatterns.Chap7.Library.Repository.EF.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.Library.Repository.EF\obj\Debug\ASPNETPatterns.Chap7.Library.Repository.EF.pdb

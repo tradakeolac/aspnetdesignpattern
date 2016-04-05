@@ -1,0 +1,5 @@
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap2.Service\bin\Debug\ASPPatterns.Chap2.Service.dll
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap2.Service\bin\Debug\ASPPatterns.Chap2.Service.pdb
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap2.Service\obj\Debug\ASPPatterns.Chap2.Service.dll
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap2.Service\obj\Debug\ASPPatterns.Chap2.Service.pdb
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap2.Service\obj\Debug\ASPPatterns.Chap2.Service.csprojResolveAssemblyReference.cache

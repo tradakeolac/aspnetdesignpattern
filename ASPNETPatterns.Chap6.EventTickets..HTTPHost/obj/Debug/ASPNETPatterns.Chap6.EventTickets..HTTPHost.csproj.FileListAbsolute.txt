@@ -1,0 +1,16 @@
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets..HTTPHost\bin\ASPNETPatterns.Chap6.EventTickets._.HTTPHost.dll.config
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets..HTTPHost\bin\ASPNETPatterns.Chap6.EventTickets._.HTTPHost.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets..HTTPHost\bin\ASPNETPatterns.Chap6.EventTickets._.HTTPHost.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets..HTTPHost\obj\Debug\ASPNETPatterns.Chap6.EventTickets..HTTPHost.csprojResolveAssemblyReference.cache
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets..HTTPHost\obj\Debug\ASPNETPatterns.Chap6.EventTickets._.HTTPHost.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets..HTTPHost\obj\Debug\ASPNETPatterns.Chap6.EventTickets._.HTTPHost.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets..HTTPHost\bin\ASPNETPatterns.Chap6.EventTickets.Contracts.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets..HTTPHost\bin\ASPNETPatterns.Chap6.EventTickets.Service.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets..HTTPHost\bin\ASPNETPatterns.Chap6.EventTickets.DataContract.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets..HTTPHost\bin\ASPNETPatterns.Chap6.EventTickets.Model.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets..HTTPHost\bin\ASPNETPatterns.Chap6.EventTickets.Repository.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets..HTTPHost\bin\ASPNETPatterns.Chap6.EventTickets.Contracts.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets..HTTPHost\bin\ASPNETPatterns.Chap6.EventTickets.Service.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets..HTTPHost\bin\ASPNETPatterns.Chap6.EventTickets.DataContract.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets..HTTPHost\bin\ASPNETPatterns.Chap6.EventTickets.Model.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets..HTTPHost\bin\ASPNETPatterns.Chap6.EventTickets.Repository.pdb

@@ -1,0 +1,9 @@
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap3.Layered.Presentation\obj\Debug\ASPPatterns.Chap3.Layered.Presentation.csprojResolveAssemblyReference.cache
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap3.Layered.Presentation\bin\Debug\ASPPatterns.Chap3.Layered.Presentation.dll
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap3.Layered.Presentation\bin\Debug\ASPPatterns.Chap3.Layered.Presentation.pdb
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap3.Layered.Presentation\bin\Debug\ASPPatterns.Chap3.Layered.Model.dll
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap3.Layered.Presentation\bin\Debug\ASPPatterns.Chap3.Layered.Service.dll
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap3.Layered.Presentation\bin\Debug\ASPPatterns.Chap3.Layered.Model.pdb
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap3.Layered.Presentation\bin\Debug\ASPPatterns.Chap3.Layered.Service.pdb
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap3.Layered.Presentation\obj\Debug\ASPPatterns.Chap3.Layered.Presentation.dll
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap3.Layered.Presentation\obj\Debug\ASPPatterns.Chap3.Layered.Presentation.pdb

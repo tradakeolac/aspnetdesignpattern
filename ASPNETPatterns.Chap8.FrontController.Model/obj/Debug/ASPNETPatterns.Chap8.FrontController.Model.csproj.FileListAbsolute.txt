@@ -1,0 +1,4 @@
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap8.FrontController.Model\bin\Debug\ASPNETPatterns.Chap8.FrontController.Model.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap8.FrontController.Model\bin\Debug\ASPNETPatterns.Chap8.FrontController.Model.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap8.FrontController.Model\obj\Debug\ASPNETPatterns.Chap8.FrontController.Model.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap8.FrontController.Model\obj\Debug\ASPNETPatterns.Chap8.FrontController.Model.pdb

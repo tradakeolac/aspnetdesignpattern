@@ -1,0 +1,5 @@
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap3.Layered.Model\bin\Debug\ASPPatterns.Chap3.Layered.Model.dll
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap3.Layered.Model\bin\Debug\ASPPatterns.Chap3.Layered.Model.pdb
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap3.Layered.Model\obj\Debug\ASPPatterns.Chap3.Layered.Model.dll
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap3.Layered.Model\obj\Debug\ASPPatterns.Chap3.Layered.Model.pdb
+D:\Study\AspNetDesignPattern\ASPPatterns.Chap3.Layered.Model\obj\Debug\ASPPatterns.Chap3.Layered.Model.csprojResolveAssemblyReference.cache

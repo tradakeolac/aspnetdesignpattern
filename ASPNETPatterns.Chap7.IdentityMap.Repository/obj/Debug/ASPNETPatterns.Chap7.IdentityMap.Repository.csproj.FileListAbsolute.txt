@@ -1,0 +1,7 @@
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.IdentityMap.Repository\bin\Debug\ASPNETPatterns.Chap7.IdentityMap.Repository.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.IdentityMap.Repository\bin\Debug\ASPNETPatterns.Chap7.IdentityMap.Repository.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.IdentityMap.Repository\bin\Debug\ASPNETPatterns.Chap7.IdentityMap.Model.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.IdentityMap.Repository\bin\Debug\ASPNETPatterns.Chap7.IdentityMap.Model.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.IdentityMap.Repository\obj\Debug\ASPNETPatterns.Chap7.IdentityMap.Repository.csprojResolveAssemblyReference.cache
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.IdentityMap.Repository\obj\Debug\ASPNETPatterns.Chap7.IdentityMap.Repository.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.IdentityMap.Repository\obj\Debug\ASPNETPatterns.Chap7.IdentityMap.Repository.pdb

@@ -1,0 +1,9 @@
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets.ServiceProxy\bin\Debug\ASPNETPatterns.Chap6.EventTickets.ServiceProxy.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets.ServiceProxy\bin\Debug\ASPNETPatterns.Chap6.EventTickets.ServiceProxy.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets.ServiceProxy\bin\Debug\ASPNETPatterns.Chap6.EventTickets.Contracts.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets.ServiceProxy\bin\Debug\ASPNETPatterns.Chap6.EventTickets.DataContract.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets.ServiceProxy\bin\Debug\ASPNETPatterns.Chap6.EventTickets.Contracts.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets.ServiceProxy\bin\Debug\ASPNETPatterns.Chap6.EventTickets.DataContract.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets.ServiceProxy\obj\Debug\ASPNETPatterns.Chap6.EventTickets.ServiceProxy.csprojResolveAssemblyReference.cache
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets.ServiceProxy\obj\Debug\ASPNETPatterns.Chap6.EventTickets.ServiceProxy.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap6.EventTickets.ServiceProxy\obj\Debug\ASPNETPatterns.Chap6.EventTickets.ServiceProxy.pdb

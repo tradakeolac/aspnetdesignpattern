@@ -1,0 +1,7 @@
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.ProxyPattern.Repository\bin\Debug\ASPNETPatterns.Chap7.ProxyPattern.Repository.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.ProxyPattern.Repository\bin\Debug\ASPNETPatterns.Chap7.ProxyPattern.Repository.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.ProxyPattern.Repository\bin\Debug\ASPNETPatterns.Chap7.ProxyPattern.Model.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.ProxyPattern.Repository\bin\Debug\ASPNETPatterns.Chap7.ProxyPattern.Model.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.ProxyPattern.Repository\obj\Debug\ASPNETPatterns.Chap7.ProxyPattern.Repository.csprojResolveAssemblyReference.cache
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.ProxyPattern.Repository\obj\Debug\ASPNETPatterns.Chap7.ProxyPattern.Repository.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.ProxyPattern.Repository\obj\Debug\ASPNETPatterns.Chap7.ProxyPattern.Repository.pdb

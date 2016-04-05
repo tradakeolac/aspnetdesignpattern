@@ -1,0 +1,4 @@
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.IdentityMap.Model\bin\Debug\ASPNETPatterns.Chap7.IdentityMap.Model.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.IdentityMap.Model\bin\Debug\ASPNETPatterns.Chap7.IdentityMap.Model.pdb
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.IdentityMap.Model\obj\Debug\ASPNETPatterns.Chap7.IdentityMap.Model.dll
+D:\Study\AspNetDesignPattern\ASPNETPatterns.Chap7.IdentityMap.Model\obj\Debug\ASPNETPatterns.Chap7.IdentityMap.Model.pdb

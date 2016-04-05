@@ -1,0 +1,16 @@
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.NHibernate\obj\Debug\Agathas.Storefront.Repository.NHibernate.csprojResolveAssemblyReference.cache
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.NHibernate\bin\Debug\Agathas.Storefront.Repository.NHibernate.dll
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.NHibernate\bin\Debug\Agathas.Storefront.Repository.NHibernate.pdb
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.NHibernate\bin\Debug\Agathas.Storefront.Core.dll
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.NHibernate\bin\Debug\Agathas.Storefront.Model.dll
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.NHibernate\bin\Debug\Iesi.Collections.dll
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.NHibernate\bin\Debug\LinFu.DynamicProxy.dll
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.NHibernate\bin\Debug\log4net.dll
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.NHibernate\bin\Debug\NHibernate.dll
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.NHibernate\bin\Debug\Agathas.Storefront.Core.pdb
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.NHibernate\bin\Debug\Agathas.Storefront.Model.pdb
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.NHibernate\bin\Debug\Iesi.Collections.xml
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.NHibernate\bin\Debug\log4net.xml
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.NHibernate\bin\Debug\NHibernate.xml
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.NHibernate\obj\Debug\Agathas.Storefront.Repository.NHibernate.dll
+D:\Study\AspNetDesignPattern\Agathas.Storefront.Repository.NHibernate\obj\Debug\Agathas.Storefront.Repository.NHibernate.pdb
